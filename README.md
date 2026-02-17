@@ -9,7 +9,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kazaki-Dev0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kazaki-Dev0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazaki-Dev0&theme=github-dark" height="150" alt="activity-graph graph"  />
 </div>
 
